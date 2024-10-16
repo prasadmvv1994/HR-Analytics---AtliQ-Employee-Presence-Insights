@@ -40,6 +40,8 @@ The attendance data was provided in the form of an Excel file. The data underwen
 4. Gateway
 5. Excel
 6. Filters
+7. DAX Measures
+8. Calculated Columns
 
 ## **Dashboard:**
 
